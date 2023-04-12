@@ -9,10 +9,10 @@
     Desenvolva um algoritmo onde o usuário digite a distância, o consumo e o valor do litro de combustível, com estes dados o algoritmo deverá calcular a quantidade de litros de combustível para a viagem e o custo da viagem.
 '''
 
-distancia = float(input("Digite o distância: "))
-consumo = float(input("Digite o consumo do automóvel: "))
-preco_gasolina = float(input("Digite o valor da gasolina: "))
+distance = float(input("Digite o distância: "))
+consumption = float(input("Digite o consumo do automóvel: "))
+gas_price = float(input("Digite o valor da gasolina: "))
 
-custo_da_viagem = (distancia / consumo) * preco_gasolina
+expense = (distance / consumption) * gas_price
 
-print(f"O custo para percorrer {distancia}km é de {custo_da_viagem}")
+print(f"O custo para percorrer {distance}km é de {expense}")
