@@ -10,8 +10,8 @@ average_class = 0
 
 for step in range(3):
     name = input(f"Digite o nome do aluno: ")
-    note1 = float(input("Digite o primeira nota: "))
-    note2 = float(input("Digite o segunda nota: "))
+    note1 = float(input("Digite a primeira nota: "))
+    note2 = float(input("Digite a segunda nota: "))
 
     average_student = (note1 + note2) / 2
 
