@@ -1,5 +1,5 @@
 '''
-03 - Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
+    03 - Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
 '''
 
 grades = [7, 8.5, 9, 7.9]

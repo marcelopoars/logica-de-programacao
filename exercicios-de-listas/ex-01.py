@@ -1,5 +1,5 @@
 '''
-01 - Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
+    01 - Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
 '''
 
 numbers = [1, 12, 78, 44, 23]
